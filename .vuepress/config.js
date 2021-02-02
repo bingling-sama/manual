@@ -1,6 +1,7 @@
 module.exports = {
     title: 'LittleSkin 用户使用手册',
     base: '/',
+    dest: './dist',
     ga: 'UA-136793183-1',
     head: [
         ['link', { rel: 'icon', href: 'https://littleskin-resource-1251562235.file.myqcloud.com/favicon.png' }]
